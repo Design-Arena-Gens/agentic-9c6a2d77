@@ -914,4 +914,7 @@ config/database.yml
 *.tar
 *.zip
 
+# Video files
+public/videos/
+
 # ===== END =====
